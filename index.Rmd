@@ -1,0 +1,20 @@
+--- 
+title: "Marchine Learning with R"
+author: "Thomas Karaouzene and Kevin Caye"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "This book contains the materials for the course Machine Learningwith R"
+---
+# About {-}
+
+## License {-}
+
+This material is licensed under the [Creative Commons Attribution-ShareAlike 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/). 
+
+## Author {-}
+
+TODO

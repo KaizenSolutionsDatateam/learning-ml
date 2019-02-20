@@ -1,0 +1,7 @@
+## R stuff
+.RData
+.Rhistory
+
+## bookdown
+_book
+_bookdown_files
