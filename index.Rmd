@@ -1,6 +1,11 @@
 --- 
 title: "Machine Learning Best Practices With R and Open Source"
-author: "Thomas Karaouzene and Kevin Caye"
+
+subtitle: 'From buisness problematic to an on production machin learning solution'
+author:
+- Thomas Karaouzene
+- Kevin Caye
+
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book

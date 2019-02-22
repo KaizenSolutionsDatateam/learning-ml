@@ -4,9 +4,52 @@
 
 ## Class teaser
 
+
+
 ## Class prerequisites
+
++ Basic knowledge in programmation (in R is better)    
++ Basic knowledge in statistics and probability  
++ Knowledge in machin learning methods  
 
 ## Class objectives 
 
+
+
+
 ## Class agenda
+
+
+### Day one
+
+1. Tools description and best practicies 
+    + Versioning with git  
+    + Model monitoring with DVC  
+    + R IDE with Rstudio  
+
+2. R for data science
+    + Data manipulation (dplyr, tidyr...)    
+    + Data visualization (ggplot2)  
+
+### Day two
+
+1. Use case through a building consumption forecasting problematic  
+    + Buisness problematic understanding  
+    + Data manipulation and visualization 
+    + Model building    
+        1. Classic forecasting models 
+        2. Classic machin learning model  
+        3. Deep learning model
+
+### Day three
+
+1. Communication  
+    + Automatic report 
+
+2. Make your model lives 
+    + Model evaluation  
+    + Model deployment  
+    + Model updating
+
+
 
